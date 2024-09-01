@@ -1,8 +1,5 @@
-// ResumeTemplate v1.0 ClearCareer
-// url: clearcareer.ca
-// by: Iskender Piyale-Sheard
-// website: izzydoesizzy.com
-// Created 06-27-2016
+// by: Ahmed Bahroun
+// Created 2024
  
 
 // Smooth Scroll Function
